@@ -1,12 +1,10 @@
-# Hey There! Myself PRARIT AGRAWAL
+# Hey there! Myself PRARIT AGRAWAL
 
-**`Currently pursuing my B.Tech under IT branch...`**
+**`I am currently pursuing my B.Tech under Information Technology branch from Jaypee Institute of Information Technology, Noida`**
 
 Dedicated and enthusiastic Technical Programmer.
 Eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging.
 Special interest in Open Source Technologies involved in Automobile Industry.
-
-<br/>
 
 <a href="https://www.linkedin.com/in/prarit-agrawal-8038991b7/" target="_blank">
   <img align="centre" alt="Prarit's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,8 +15,6 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 </a>
 
 <br/>
-<br/>
-
 <br/>
 
 <img align="right" height="250" width="350" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />

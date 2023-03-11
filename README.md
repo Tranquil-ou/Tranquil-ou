@@ -6,6 +6,8 @@ Dedicated and enthusiastic Technical Programmer.
 Eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging.
 Special interest in Open Source Technologies involved in Automobile Industry.
 
+<br/>
+
 <a href="https://www.linkedin.com/in/prarit-agrawal-8038991b7/" target="_blank">
   <img align="centre" alt="Prarit's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,4 +23,3 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 
 <img align="right" height="250" width="350" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-[![Prarit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tranquil-ou)](https://github.com/Tranquil-ou/github-readme-stats)

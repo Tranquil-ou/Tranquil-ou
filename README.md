@@ -1,6 +1,6 @@
 # Hey there! Myself PRARIT AGRAWAL
 
-**`I am currently pursuing my B.Tech under Information Technology branch from Jaypee Institute of Information Technology, Noida`**
+**`I am currently pursuing my B.Tech under Information Technology branch from Jaypee Institute of Information Technology, Noida.`**
 
 Dedicated and enthusiastic Technical Programmer.
 Eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging.

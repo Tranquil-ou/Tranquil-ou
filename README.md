@@ -1,8 +1,23 @@
-### Hi there 👋
+# Hey There! Myself PRARIT AGRAWAL
 
-### I’m currently working on Frontend Development Lifecycle.
-### I’m currently learning Data Structure & Algorithms for building my logical skillset.
-### I’m looking for help with grabbing a Summer Intern
-### Ask me about APIs & Automobiles anytine.
-### How to reach me: E-Mail ID: prarit.agrawal@gmail.com | Mob. No.: 7895879299
+**`Currently pursuing my B.Tech under IT branch...`**
+
+Dedicated and enthusiastic Technical Programmer.
+Eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging.
+Special interest in Open Source Technologies involved in Automobile Industry.
+
+<a href="https://www.linkedin.com/in/prarit-agrawal-8038991b7/" target="_blank">
+  <img align="centre" alt="Prarit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/Tranquil_ou" target="_blank">
+  <img align="centre" alt="Utkrisht's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+</a>
+
+<br/>
+<br/>
+
+<br/>
+
+<img align="right" height="250" width="350" alt="GIF" src="https://tenor.com/view/programmer-gif-19019116" />
 

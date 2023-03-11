@@ -19,5 +19,5 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 
 <br/>
 
-<img align="right" height="250" width="350" alt="GIF" src="https://tenor.com/view/programmer-gif-19019116" />
+<img align="right" height="250" width="350" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 

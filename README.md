@@ -21,3 +21,4 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 
 <img align="right" height="250" width="350" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
+[![Prarit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tranquil-ou)](https://github.com/Tranquil-ou/github-readme-stats)

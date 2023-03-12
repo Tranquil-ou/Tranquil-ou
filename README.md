@@ -10,6 +10,7 @@ Special interest in Open Source Technologies involved in Automobile Industry.
   <img align="middle" alt="Prarit's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
 <a href="https://twitter.com/Tranquil_ou" target="_blank">
   <img align="middle" alt="Prarit's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a>

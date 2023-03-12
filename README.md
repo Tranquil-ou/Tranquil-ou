@@ -19,3 +19,11 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 
 <img align="right" height="250" width="350" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
+**||Presenting about myself||**
+
+- I would like to mention about my organization ODSDC-JIIT, Noida has helped me alot to get into Open Source World. 
+- I am willling to work more upon API technologies in the near future.
+- I am a great car enthusiast that one could call me Automobile Toiler.
+
+- Mode of Contact: E-Mail ID (prarit.agrawal@gmail.com) | Mob. No. (+91 7895879299)
+

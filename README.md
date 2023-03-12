@@ -20,7 +20,7 @@ Dedicated and enthusiastic Technical Programmer, eager to apply my skills over t
 - I am part of OSDC-JIIT, Noida since 2021 which has helped me alot to get into the world of Open Source. 
 - I am willling to work more upon API technologies in the near future.
 - I am a great car enthusiast that one could call me Automobile Toiler.
-- 
+
 - REACH ME THROUGH: 
   - E-Mail: (prarit.agrawal@gmail.com)
   - Phone: (+91 7895879299)

@@ -15,7 +15,7 @@ Dedicated and enthusiastic Technical Programmer, eager to apply my skills over t
 
 <img align="right" height="240" width="330" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-**Stuff about myself:**
+**STUFF ABOUT MYSELF:**
 
 - I am part of OSDC-JIIT, Noida since 2021 which has helped me alot to get into the world of Open Source. 
 - I am willling to work more upon API technologies in the near future.

@@ -2,9 +2,7 @@
 
 **`I am currently pursuing my B.Tech (Information Technology) from Jaypee Institute of Information Technology, Noida.`**
 
-Dedicated and enthusiastic Technical Programmer.
-Eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging.
-Special interest in Open Source Technologies involved in Automobile Industry.
+Dedicated and enthusiastic Technical Programmer, eager to apply my skills over the gap in the IT Industry with proven monitoring and debugging with special interest in Open Source Technologies involved in Automobile Industry.
 
 <a href="https://www.linkedin.com/in/prarit-agrawal-8038991b7/" target="_blank">
   <img align="middle" alt="Prarit's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,7 +20,8 @@ Special interest in Open Source Technologies involved in Automobile Industry.
 - I am part of OSDC-JIIT, Noida since 2021 which has helped me alot to get into the world of Open Source. 
 - I am willling to work more upon API technologies in the near future.
 - I am a great car enthusiast that one could call me Automobile Toiler.
+- 
 - REACH ME THROUGH: 
-  - E-Mail (prarit.agrawal@gmail.com)
-  - Phone (+91 7895879299)
+  - E-Mail: (prarit.agrawal@gmail.com)
+  - Phone: (+91 7895879299)
 

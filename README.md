@@ -13,7 +13,7 @@ Dedicated and enthusiastic Technical Programmer, eager to apply my skills over t
 
 <br/>
 
-<img align="right" height="240" width="330" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<img align="right" height="210" width="300" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 **INTRODUCTION:**
 

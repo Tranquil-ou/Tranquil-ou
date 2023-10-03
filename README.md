@@ -7,7 +7,6 @@ I am a dedicated and enthusiastic Technical Programmer, eager to apply my skills
 <a href="https://www.linkedin.com/in/prarit-agrawal-8038991b7/" target="_blank">
   <img align="middle" alt="Prarit's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
 <a href="https://twitter.com/Tranquil_ou" target="_blank">
   <img align="middle" alt="Prarit's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a>
